@@ -12,7 +12,7 @@ buttons.forEach((item) => {
             display.innerText = eval(display.innerText);
         }else if(display.innerText == "" && item.id == "equal"){
             display.innerText = "Null";
-            setTimeout(() => (display.innerText = ""), 2000);
+            setTimeout(() => (display.innerText = ""), 500);
         }else{
             display.innerText += item.id;
         }

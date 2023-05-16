@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(45deg, #f06291, #fffde7);
+    background: linear-gradient(45deg, #5529bd, #9694af);
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
     width: auto;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 30px rgb(187, 130, 130);
+    box-shadow: 0 0 30px rgb(65, 52, 52);
     background-color: #fff;
 
     #display {
@@ -55,8 +55,8 @@ body {
     }
 
     .btn-operator {
-        background-color: #ffd0fb;
-        color: #f967f3;
+        background-color: #ffd5d8;
+        color: #040404;
     }
 
     .btn-equal {
